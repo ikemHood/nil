@@ -3,3 +3,5 @@
 /cache
 /typechain-types
 /artifacts
+
+pnpm-lock.yaml
